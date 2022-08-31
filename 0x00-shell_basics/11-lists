@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | ls -a ~/alx-system_engineering-devops | ls -a /boot
+ls -la | ls -la ~/alx-system_engineering-devops | ls -la /boot
