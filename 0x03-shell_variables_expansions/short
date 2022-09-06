@@ -1,0 +1,7 @@
+#!/bin/bash
+echo '#!/bin/bash'>$@
+chmod u+x $@
+vi $@
+git add $@
+git commit
+git push
